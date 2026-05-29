@@ -1,0 +1,11 @@
+Metric,Value
+Fixed Baseline Tariff,₹15.0/kWh
+Surge Tariff (>80% util),₹22.5/kWh
+Discount Tariff (<30% util),₹10.5/kWh
+Revenue Gain %,-7.93%
+Charger Utilization Before,29.23%
+Charger Utilization After,30.11%
+Off-Peak Uplift % (simulated),15.0%
+Surge Regime % of timesteps,0.0%
+Discount Regime % of timesteps,54.7%
+Baseline Regime % of timesteps,45.3%

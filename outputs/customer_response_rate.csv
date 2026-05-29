@@ -1,0 +1,4 @@
+tariff_regime,count,avg_price_change,avg_demand_change,implied_elasticity
+Baseline,39096,0.0,0.0,0.0
+Discount,47154,-0.3,0.08689464246004579,-0.28964880916564867
+Surge,30,0.5,-0.14999999981656129,-0.2999999990331226

@@ -1,0 +1,13 @@
+Metric,Value
+ACN: Total Sessions,"14,848"
+ACN: Total kWh Delivered,"132,782 kWh"
+ACN: Avg Session Duration (hrs),5.50 hrs
+ACN: Avg Idle Time After Charging (hrs),2.34 hrs
+ACN: Peak Hour (most sessions),15:00
+ACN: Weekend Sessions %,18.3%
+UrbanEV: Stations Analysed,247
+UrbanEV: Mean Network Utilization Rate,28.02%
+UrbanEV: Congested Station-Timesteps %,1.02%
+UrbanEV: Off-Peak Station-Timesteps %,60.85%
+UrbanEV: Stations Underutilized (<30%),153
+UrbanEV: Stations Congested (>80%),0

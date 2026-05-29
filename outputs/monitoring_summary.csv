@@ -1,0 +1,9 @@
+Metric,Value,Limitation
+Avg Waiting Time Reduction (Queue Proxy),79.98%,Proxy only — actual wait time data unavailable in dataset
+Customer Response — Surge Regime (demand change),-15.00%,"Based on elasticity simulation (ε = −0.3), not observed A/B data"
+Customer Response — Discount Regime (demand change),8.69%,"Based on elasticity simulation (ε = −0.3), not observed A/B data"
+Pricing Efficiency — Dynamic Score,12.3447,Relative proxy units; not absolute ₹ values
+Pricing Efficiency — Fixed Score,14.7169,Relative proxy units; not absolute ₹ values
+Recalibration Signals Triggered,6,Threshold set at 0.5σ below rolling mean — adjustable
+Total Monitoring Days,30,Derived from 5-min interval aggregation
+Avg Daily Revenue Gain %,-8.02%,Simulation result; live deployment may differ
